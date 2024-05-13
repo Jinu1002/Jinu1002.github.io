@@ -1,0 +1,17 @@
+h1 {
+    color:rgb(25, 25, 200);
+}
+body {
+    width: 600px;
+   
+    padding: 0 20px 20px 20px;
+    border: 5px solid black;
+    margin: 20px ;
+}
+
+.sentence {
+    background-color: beige;
+    padding: 20px 20px 20px 20px;
+    width: 300px;
+}
+
